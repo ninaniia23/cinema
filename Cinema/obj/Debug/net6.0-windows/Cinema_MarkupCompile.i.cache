@@ -1,0 +1,20 @@
+﻿Cinema
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\UEH - Năm 2\Công nghệ Phần mềm\Cinema\Cinema\obj\Debug\net6.0-windows\
+Cinema
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+C:\UEH - Năm 2\Công nghệ Phần mềm\Cinema\Cinema\App.xaml
+6-819399050
+
+16-911492262
+199-576968293
+Views\Admin\MainAdminWindow.xaml;Views\LoginWindow\ChangePassPage.xaml;Views\LoginWindow\ForgotPassPage.xaml;Views\LoginWindow\LoginPage.xaml;Views\LoginWindow\LoginWindowxaml.xaml;Views\LoginWindow\RolePage.xaml;
+
+False
+

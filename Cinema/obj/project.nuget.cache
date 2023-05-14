@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZeNjnkeu6/CwcQRAefnxw5Z6Z2gueQAsnCsr9r8Ed5nJuCzlOtNkuXBGwuOy62ioj9qnnGyq+/dyXV6hNBsCPw==",
+  "success": true,
+  "projectFilePath": "C:\\UEH - Năm 2\\Công nghệ Phần mềm\\Cinema\\Cinema\\Cinema.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\mahapps.metro.iconpacks.material\\4.11.0\\mahapps.metro.iconpacks.material.4.11.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,57 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Views\Admin\Poster1.png" />
+    <None Remove="Views\Admin\Poster10.png" />
+    <None Remove="Views\Admin\Poster2.png" />
+    <None Remove="Views\Admin\Poster3.png" />
+    <None Remove="Views\Admin\Poster4.png" />
+    <None Remove="Views\Admin\Poster5.png" />
+    <None Remove="Views\Admin\Poster6.png" />
+    <None Remove="Views\Admin\Poster7.png" />
+    <None Remove="Views\Admin\Poster8.png" />
+    <None Remove="Views\Admin\Poster9.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MahApps.Metro.IconPacks.Material" Version="4.11.0" />
+    <PackageReference Include="MaterialDesignThemes" Version="4.9.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Font\" />
+    <Folder Include="Models\" />
+    <Folder Include="Resources\img\" />
+    <Folder Include="ViewModel\AdminVM\CustomerManagementVM\" />
+    <Folder Include="ViewModel\AdminVM\ErrorVM\" />
+    <Folder Include="ViewModel\AdminVM\FoodManagementVM\" />
+    <Folder Include="ViewModel\AdminVM\Import_ExportManagementVM\" />
+    <Folder Include="ViewModel\AdminVM\MovieManagementVM\" />
+    <Folder Include="ViewModel\AdminVM\NewFolder\" />
+    <Folder Include="ViewModel\AdminVM\VoucherManagementVM\" />
+    <Folder Include="ViewModel\AdminVM\StatisticalManagementVM\" />
+    <Folder Include="ViewModel\AdminVM\StaffManagementVM\" />
+    <Folder Include="ViewModel\AdminVM\ShowtimeManagementVM\" />
+    <Folder Include="ViewModel\StaffViewModel\" />
+    <Folder Include="Utils\" />
+    <Folder Include="ResourcesXAML\" />
+    <Folder Include="Views\Admin\CustomerManagementVM\" />
+    <Folder Include="Views\Admin\ErrorVM\" />
+    <Folder Include="Views\Admin\FoodManagementVM\" />
+    <Folder Include="Views\Admin\Import_ExportManagementVM\" />
+    <Folder Include="Views\Admin\MovieManagementVM\" />
+    <Folder Include="Views\Admin\NewFolder\" />
+    <Folder Include="Views\Admin\ShowtimeManagementVM\" />
+    <Folder Include="Views\Admin\StaffManagementVM\" />
+    <Folder Include="Views\Admin\StatisticalManagementVM\" />
+    <Folder Include="Views\Admin\VoucherManagementVM\" />
+  </ItemGroup>
+
+</Project>
